@@ -6,6 +6,7 @@
 
 body {
   font-size: 15px;
+  max
 }
 
 main {
@@ -96,7 +97,6 @@ flex-direction: column;
 flex-grow: inherit;
 gap: 2rem;
 padding: 0rem 2rem 0.1rem;
-/* margin-bottom: 1rem; */
 background-color: hsl(179, 100%, 13%);
 border-bottom-right-radius: 0.25rem;
 border-top-right-radius: 0.4rem;
