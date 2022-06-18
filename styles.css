@@ -155,7 +155,7 @@ background-color: #fff;
 }
 
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 750px) {
 
   main {
     margin-top: 4rem;
